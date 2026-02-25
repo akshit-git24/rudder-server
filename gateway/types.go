@@ -1,6 +1,7 @@
 package gateway
 
 import (
+	"context"
 	"net/http"
 
 	gwtypes "github.com/rudderlabs/rudder-server/gateway/types"
